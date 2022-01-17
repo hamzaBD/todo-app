@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## integration de firebase 
+-accéder au site officiel de firebase
+-créer votre propre compte 
+- cliquer sur console pour créer votre projet et par la suite realtime database pour créer votre base de données 
+- finalemnt copie l'url de votre base qui va vous permttre de construire vos requete http(get, post, put ..)
